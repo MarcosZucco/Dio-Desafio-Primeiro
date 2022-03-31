@@ -1,0 +1,8 @@
+ls - Listar tudo o que há dentro de uma pasta
+cd - Procurar uma pasta específica
+git clone (LINK) - para clonar/copiar um repositório 
+git commit - Para commitar um arquivo 
+git push - Para mandar repositórios locais para locais remotos
+git add - Para adicionar certos stages 
+git add . / adiciona todos os arquivos de uma só vez
+
